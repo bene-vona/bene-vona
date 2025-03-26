@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+<img src=["https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hey%20there!%20I'm%20Benedetta&textBg=false&fontAlign=50&fontSize=21&fontColor=000000&descAlign=51&descAlignY=77)/>
+</p>
 
 <!--
 **bene-vona/bene-vona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
