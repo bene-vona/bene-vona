@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:9600ff,100:5512fb&text=Hey%20there!%20I'm%20Benedetta&textBg=false&fontAlign=50&fontSize=21&fontColor=B2BEB5&descAlign=51&descAlignY=77)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:36669c,100:3ec995&text=Hey%20there!%20I'm%20Benedetta&textBg=false&fontAlign=50&fontSize=21&fontColor=B2BEB5&descAlign=51&descAlignY=77)
 
 ```yaml
 name: Benedetta Vona
