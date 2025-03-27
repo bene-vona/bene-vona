@@ -38,6 +38,8 @@ portfolio_projects:
   [
     "NHS Service Capacity - Diagnostic Analysis using Python",
     "Turtle Games Customer Trends and Performance in Python and R",
+    "2Market Exploratory Analysis - Tableau Dashboard"
+  ]
   
 currently_learning: ["JavaScript"]
 2025 Goals: ["Create 25+ Projects and learn at least 5 new Technologies."]
