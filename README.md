@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:003193,100:00BA2D&text=Hi%20there!%20I'm%20Benedetta%20-nl-%20and%20this%20is%20my%20Data%20Analyst%20Portfolio&fontColor=C0C0C0&fontSize=21)
 
+## A Little Bit About Me
 ```yaml
 name: Benedetta Vona
 located_in: London, UK
