@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:36669c,100:3ec995&text=Hey%20there!%20I'm%20Benedetta&textBg=false&fontAlign=50&fontSize=21&fontColor=B2BEB5&descAlign=51&descAlignY=77)
-
-<p align="center">
-## This is my Data Analyst Portfolio
-</p>
+![header](https://capsule-render.vercel.app/api?type=transparent&height=300&color=gradient&text=This%20is%20my%20Data%20Analyst%20Portfolio&fontColor=B2BEB5&fontSize=19)
 
 ```yaml
 name: Benedetta Vona
