@@ -9,7 +9,15 @@ education:
     "Master's in Environmental Law and Sustainable Development",
     "Bachelor's in History and Anthropology",
   ]
-
+languages_and_tools:
+  [
+    "Python",
+    "SQL",
+    "R",
+    "Excel",
+    "Tableau",
+    "PowerBI"
+  ]
 fields_of_interests:
   [
     "Sustainability"
@@ -24,12 +32,13 @@ technical_background:
     "Data Analytics at LSE",
     "Sustainability Intern"
   ]
+
 portfolio_projects:
   [
     "NHS Service Capacity - Diagnostic Analysis using Python",
     "Turtle Games Customer Trends and Performance in Python and R",
   
-currently_learning: ["JavaScript, Power BI"]
+currently_learning: ["JavaScript"]
 2025 Goals: ["Create 25+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Tv Shows", "Skateboarding", "Craft Beer", "Volleyball"]
 ```
