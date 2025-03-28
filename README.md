@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:003193,100:00BA2D&text=Hi%20there!%20I'm%20Benedetta%20-nl-%20and%20this%20is%20my%20Data%20Analyst%20Portfolio&fontColor=C0C0C0&fontSize=21)
 
+---
+
+💻[My Projects](https://github.com/bene-vona/portfolio_projects/tree/main) & [Linkedin](www.linkedin.com/in/benedetta-vona)
+
 ## A Little Bit About Me
 ```yaml
 name: Benedetta Vona
@@ -34,7 +38,7 @@ technical_background:
     "Sustainability Intern"
   ]
 
-[portfolio_projects](https://github.com/bene-vona/portfolio_projects/tree/main/):
+portfolio_projects:
   [
     "NHS Service Capacity - Diagnostic Analysis using Python",
     "Turtle Games Customer Trends and Performance in Python and R",
