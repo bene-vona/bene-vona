@@ -34,10 +34,10 @@ technical_background:
     "Sustainability Intern"
   ]
 
-'portfolio_projects'[https://github.com/bene-vona/portfolio_projects/tree/main.md]:
+'portfolio_projects'(https://github.com/bene-vona/portfolio_projects/tree/main.md):
   [
-    "['NHS Service Capacity - Diagnostic Analysis using Python'](,
-    [Turtle Games Customer Trends and Performance in Python and R](https://github.com/bene-vona/portfolio_projects/tree/main/Turtle%20Games%20Customer%20Trends%20and%20Performance%20in%20Python%20and%20R),
+    "NHS Service Capacity - Diagnostic Analysis using Python",
+    "Turtle Games Customer Trends and Performance in Python and R",
     "2Market Exploratory Analysis - Tableau Dashboard"
   ]
   
