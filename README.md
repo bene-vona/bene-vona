@@ -36,12 +36,12 @@ technical_background:
 
 portfolio_projects:
   [
-    ["NHS Service Capacity - Diagnostic Analysis using Python"](https://github.com/bene-vona/portfolio_projects/tree/main/NHS%20Service%20Capacity%20-%20Diagnostic%20Analysis%20using%20Python),
-    ["Turtle Games Customer Trends and Performance in Python and R"](https://github.com/bene-vona/portfolio_projects/tree/main/Turtle%20Games%20Customer%20Trends%20and%20Performance%20in%20Python%20and%20R),
+    [NHS Service Capacity - Diagnostic Analysis using Python](https://github.com/bene-vona/portfolio_projects/tree/main/NHS%20Service%20Capacity%20-%20Diagnostic%20Analysis%20using%20Python),
+    [Turtle Games Customer Trends and Performance in Python and R](https://github.com/bene-vona/portfolio_projects/tree/main/Turtle%20Games%20Customer%20Trends%20and%20Performance%20in%20Python%20and%20R),
     "2Market Exploratory Analysis - Tableau Dashboard"
   ]
   
 currently_learning: ["JavaScript"]
 2025 Goals: ["Create 25+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Tv Shows", "Skateboarding", "Craft Beer", "Volleyball"]
+hobbies: ["Tv Shows", "Learning French", "Craft Beer", "Volleyball"]
 ```
