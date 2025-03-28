@@ -33,8 +33,8 @@ technical_background:
     "Data Analytics at LSE",
     "Sustainability Intern"
   ]
-<a href="https://github.com/bene-vona/portfolio_projects/tree/main/">Testing Landing Page</a>
-portfolio_projects"[https://github.com/bene-vona/portfolio_projects/tree/main/]":
+
+portfolio_projects"<https://github.com/bene-vona/portfolio_projects/tree/main/>":
   [
     "NHS Service Capacity - Diagnostic Analysis using Python",
     "Turtle Games Customer Trends and Performance in Python and R",
