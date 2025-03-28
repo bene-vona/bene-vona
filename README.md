@@ -34,8 +34,7 @@ technical_background:
     "Sustainability Intern"
   ]
 
-portfolio_projects:
-url: "https://github.com/bene-vona/portfolio_projects/tree/main/":
+portfolio_projects "🔗[View Portfolio](https://github.com/bene-vona/portfolio_projects/tree/main/)":
   [
     "NHS Service Capacity - Diagnostic Analysis using Python",
     "Turtle Games Customer Trends and Performance in Python and R",
