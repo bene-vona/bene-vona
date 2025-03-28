@@ -2,7 +2,8 @@
 
 ---
 
-💻[My Projects](https://github.com/bene-vona/portfolio_projects/tree/main) & ![image](https://github.com/user-attachments/assets/5f1af72c-bceb-46aa-8b2e-ef20a2cb88f1)
+💻[My Projects](https://github.com/bene-vona/portfolio_projects/tree/main) & ![image](https://github.com/user-attachments/assets/4919e2d3-9488-4610-bc0b-8ff8cfda6639)
+
 
  [Linkedin](www.linkedin.com/in/benedetta-vona)
 
