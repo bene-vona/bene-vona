@@ -2,7 +2,8 @@
 
 ---
 
-💻 [Projects](https://github.com/bene-vona/portfolio_projects/tree/main) & ![image](https://github.com/user-attachments/assets/32260c26-262f-4e35-b4fa-5de5f34ef5e1)  [Linkedin](www.linkedin.com/in/benedetta-vona)
+💻 [Projects](https://github.com/bene-vona/portfolio_projects/tree/main) & ![image](https://github.com/user-attachments/assets/38cc4278-254d-45b1-a86e-3e74fc3f15ec)
+![image](https://github.com/user-attachments/assets/32260c26-262f-4e35-b4fa-5de5f34ef5e1)  [Linkedin](www.linkedin.com/in/benedetta-vona)
 
 ## A Little Bit About Me
 ```yaml
