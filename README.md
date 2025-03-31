@@ -42,7 +42,7 @@ portfolio_projects:
   [
     "NHS Service Capacity - Diagnostic Analysis using Python",
     "Turtle Games Customer Trends and Performance in Python and R",
-    "2Market Exploratory Analysis - Tableau Dashboard"
+    "2Market Demographic and Market Analysis - Tableau Dashboard"
   ]
   
 currently_learning: ["JavaScript"]
