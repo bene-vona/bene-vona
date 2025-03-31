@@ -2,8 +2,7 @@
 
 ---
 
-💻 [Projects](https://github.com/bene-vona/portfolio_projects/tree/main) / ![image](https://github.com/user-attachments/assets/0831ada5-ef12-4b15-9abc-b8bc610ee78a) 
-[Tableau](https://public.tableau.com/app/profile/benedetta.vona/vizzes)  &  ![image](https://github.com/user-attachments/assets/32260c26-262f-4e35-b4fa-5de5f34ef5e1)  [Linkedin](www.linkedin.com/in/benedetta-vona)
+💻 [Projects](https://github.com/bene-vona/portfolio_projects/tree/main) / 📊 [Tableau](https://public.tableau.com/app/profile/benedetta.vona/vizzes)  &  ![image](https://github.com/user-attachments/assets/32260c26-262f-4e35-b4fa-5de5f34ef5e1)  [Linkedin](www.linkedin.com/in/benedetta-vona)
 
 ## A Little Bit About Me
 ```yaml
