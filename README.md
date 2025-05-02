@@ -30,8 +30,7 @@ fields_of_interests:
     "Data Science",
     "Web Development",
     "Machine Learning",
-    "DevOps",
-    "UI/UX"
+    "DevOps"
   ]
 technical_background:
   [
@@ -47,6 +46,6 @@ portfolio_projects:
   ]
   
 currently_learning: ["JavaScript"]
-2025 Goals: ["Create 25+ Projects and learn at least 5 new Technologies."]
+2025 Goals: ["Create 10 Coding Projects and 5 more Data Analytics Projects."]
 hobbies: ["Tv Shows", "Learning French", "Craft Beer", "Volleyball"]
 ```
